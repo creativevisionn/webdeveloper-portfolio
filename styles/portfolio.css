@@ -171,6 +171,7 @@ footer {
    background: #FFF8F3;
    margin-top: 100px;
    padding: 130px 230px;
+   justify-content: space-between;
 }
 .footer-column {
    width: 50%;
