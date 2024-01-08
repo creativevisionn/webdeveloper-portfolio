@@ -113,3 +113,7 @@ main {
     text-align: center;
 
 }
+#what-i-do-description {
+   /* 30px effected on top and bottom, 150px effected on left-right */
+   padding: 30px 150px;
+}
